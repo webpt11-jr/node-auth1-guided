@@ -1,4 +1,4 @@
-# Node Auth 1 Guided Project
+# Node Auth 1 Guided Project #
 
 Guided project for **Node Auth 1** Module.
 
